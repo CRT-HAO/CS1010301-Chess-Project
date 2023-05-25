@@ -1,12 +1,12 @@
-![logo](https://github.com/CRT-HAO/CS1010301-Chess-Project/assets/31580253/21264d81-8ee4-4832-9c59-d5f5c8828827)
+![logo](https://github.com/CRT-HAO/CS1010301-Chess-Project/assets/31580253/4d23d7ba-d33a-4e83-b912-e2fdc20a0dd9)
 # CS1010301-Chess-Project
 111.2 CS1010301 物件導向程式設計實習 西洋棋遊戲  
 An original chess game.  
 Written in C++ with web technology based GUI.  
-<img width="1572" alt="截圖 2023-05-20 上午4 31 10" src="https://github.com/CRT-HAO/CS1010301-Chess-Project/assets/31580253/9f584c02-a28c-4877-9fad-29d8938364bc">
-<img width="1572" alt="截圖 2023-05-20 上午4 40 23" src="https://github.com/CRT-HAO/CS1010301-Chess-Project/assets/31580253/542c06ae-e7ec-4694-9846-f0cbd348aabf">
-<img width="1572" alt="截圖 2023-05-20 上午4 32 39" src="https://github.com/CRT-HAO/CS1010301-Chess-Project/assets/31580253/c603796f-463f-42c9-bdfc-c914c72957c4">
-<img width="1572" alt="截圖 2023-05-20 上午4 39 40" src="https://github.com/CRT-HAO/CS1010301-Chess-Project/assets/31580253/884e04ba-b04a-4f21-89ca-20ae33d67334">
+<img width="1485" alt="截圖 2023-05-25 下午4 47 40" src="https://github.com/CRT-HAO/CS1010301-Chess-Project/assets/31580253/2fc406f1-01dd-4a2a-acf6-ebf154a79f25">
+<img width="1529" alt="截圖 2023-05-25 下午4 48 02" src="https://github.com/CRT-HAO/CS1010301-Chess-Project/assets/31580253/3b0bbd6d-1d00-4774-84e3-9bea52b2586d">
+<img width="1572" alt="截圖 2023-05-20 上午4 39 40" src="https://github.com/CRT-HAO/CS1010301-Chess-Project/assets/31580253/62e27d56-d0a4-4361-8ffe-ae5047f75dd7">
+<img width="1572" alt="截圖 2023-05-20 上午4 40 23" src="https://github.com/CRT-HAO/CS1010301-Chess-Project/assets/31580253/38275a54-e52a-42ea-9678-beefe6da2998">
 
 ## Support Platforms
  - Windows MSVC
@@ -52,8 +52,8 @@ cmake --build .
 Beautiful and aesthetically pleasing user interface.  
 All original materials are created by our designers.  
 [Figma Design Project](https://www.figma.com/file/upeASWAWHpmBMB9tXlhOBT/chess-project?type=design&node-id=0%3A1&t=PiioRERyi1d0lOvg-1)
-<img width="903" alt="截圖 2023-05-20 上午4 54 54" src="https://github.com/CRT-HAO/CS1010301-Chess-Project/assets/31580253/a376a8a0-e5a7-4826-874e-4291dc596908">
-<img width="1515" alt="截圖 2023-05-20 上午4 55 41" src="https://github.com/CRT-HAO/CS1010301-Chess-Project/assets/31580253/5a1916e0-e5d9-4062-af2a-f888ac107134">
+<img width="903" alt="截圖 2023-05-20 上午4 54 54" src="https://github.com/CRT-HAO/CS1010301-Chess-Project/assets/31580253/6253c40f-7c5e-4615-b05d-58a62cdabc3d">
+<img width="1515" alt="截圖 2023-05-20 上午4 55 41" src="https://github.com/CRT-HAO/CS1010301-Chess-Project/assets/31580253/8acde07e-2fb6-46f7-bd43-70ac858a89a1">
 
 ### Assets Reference
 | Type             | Name                      | Source                                                |
